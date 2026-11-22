@@ -6,6 +6,8 @@ Naturschutz und Geodatenmanagement.
 
 - **masterthesis-lobau/** – Landnutzungsanalyse & HANPP-Berechnung 
   Wiener Lobau; thematische Karte „Landnutzung in der Wr. Lobau"
+- **sentinel2-randomtrees-lobau/** – Überwachte Bildklassifikation (Random 
+  Trees) der Landbedeckung in der Wiener Lobau mit Sentinel-2 in ArcGIS Pro
 - **maurer-wald-wegenetz/** – Projektstudie zu touristischer 
   Wegenutzung und Biotopstörung im Natura-2000-Gebiet Maurer Wald 
   (mit T. Haberler)
